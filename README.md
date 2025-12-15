@@ -29,11 +29,13 @@ When I'm not working with data, I enjoy listening to music,surfing the internet 
 ## 🌱 Currently Learning 
 
 - Python
+
+##  Education
+B.A History and International Studies
   
 
 ## 🛠️ Technical Skillset
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
 #### Data Analysis & Visualization
 <p>
