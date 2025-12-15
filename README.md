@@ -18,7 +18,7 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 
 When I'm not working with data, I enjoy listening to music,surfing the internet and baking. I love the "aha!" moment when data reveals something new and useful.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
+
 ### [🏆 Check Out My Full Portfolio Website](https://Esther-Uche.github.io/)
       
 ## 🔭 What I'm Currently Working On 
