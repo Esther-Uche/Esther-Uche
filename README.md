@@ -46,7 +46,7 @@ B.A History and International Studies
   <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
 </p>
 
-#### Programming & Automation
+#### PYTHON PROGRAMMING
 <p>
   <img src="https://img.shields.io/badge/Python-Beginner-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
 </p>
